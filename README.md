@@ -13,7 +13,7 @@
  
 
 
-![Image](https://github.com/ccaragol/lync-2013-contact-backup-and-restore-tool-(gui)/raw/master/Step4small.jpg)
+![Image](https://github.com/ccaragol/lync-2013-contact-backup-and-restore-tool--gui-/blob/master/Step4small.jpg)
 
 
 
